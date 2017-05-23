@@ -424,7 +424,7 @@ header > figure {
 	z-index: 1;
 }
 
-header > figure > img[alt='Mozzarella-logo'] {
+header > figure > a > img[alt='Mozzarella-logo'] {
 	width: 100%;
 }
 
