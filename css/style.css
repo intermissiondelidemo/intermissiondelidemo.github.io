@@ -1601,18 +1601,18 @@ footer #copy > nav > ul > li > a:hover {
 #menu #scan {
     text-align: center;
     padding: 40px 0px 40px;
-    width: 698px;
-    height: 1000px;
+    max-width: 698px;
+    max-height: 1000px;
     margin: auto;
 }
 
-/*
-#menu #scan img {
+
+#menu #scan #mycanvas {
     display: block;
     width: 100%;
     height: auto;
 }
-*/
+
 #menu-nav {
 	width: 770px;
 	overflow: hidden;
