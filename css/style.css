@@ -1602,12 +1602,10 @@ footer #copy > nav > ul > li > a:hover {
     text-align: center;
     padding: 40px 0px 40px;
     max-width: 698px;
-    max-height: 1000px;
     margin: auto;
 }
 
-
-#menu #scan #mycanvas {
+#menu #scan img {
     display: block;
     width: 100%;
     height: auto;
