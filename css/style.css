@@ -1601,6 +1601,14 @@ footer #copy > nav > ul > li > a:hover {
 #menu #scan {
     text-align: center;
     padding: 40px 0px 40px;
+    max-width: 698px;
+    margin: auto;
+}
+
+#menu #scan img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 #menu-nav {
